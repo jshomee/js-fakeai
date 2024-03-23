@@ -1,6 +1,6 @@
 {
   "name": "@jshomee/js-fakeai",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Description for js-fakeai",
   "main": "src/index.js",
   "scripts": {
